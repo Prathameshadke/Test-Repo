@@ -1,4 +1,4 @@
 This is test file 
 testing git status command and git add "file name"
 git commit -m "commite msg here"
-
+git log tells us about the all the changes made till now 
