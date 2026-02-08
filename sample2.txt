@@ -11,3 +11,5 @@ sample2.txt → The file that was changed
 1 deletion(-)One old line was removed
 git diff → shows full details
 git diff --stat → shows summary only
+
+git diff --staged shows the changes that are already added and will be included in the next commit.
