@@ -1,0 +1,2 @@
+here we are going to see some more git commands starting with
+git diff shows the exact changes you made in your files that are not yet saved (committed).
