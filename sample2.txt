@@ -27,4 +27,4 @@ Why it is important:
 Keeps secrets safe
 Avoids junk files
 Keeps repo clean
-.gitignore is a blacklist of files Git should ignore. we add the file name in .gitignore to ignore that file.
+.gitignore is a blacklist of files Git should ignore. we add the file name in .gitignore to ignore that file.q
