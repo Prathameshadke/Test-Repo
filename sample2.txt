@@ -13,3 +13,4 @@ git diff → shows full details
 git diff --stat → shows summary only
 
 git diff --staged shows the changes that are already added and will be included in the next commit.
+git log --oneline shows the commit history in a short and clean format.
