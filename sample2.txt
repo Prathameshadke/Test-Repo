@@ -1,2 +1,13 @@
 here we are going to see some more git commands starting with
 git diff shows the exact changes you made in your files that are not yet saved (committed).
+
+git diff --stat shows a summary of what changed in your files.
+sample2.txt → The file that was changed
+2 → Total number of lines affected
++ → One line was added
+- → One line was removed
+1 file changed Only one file was modified
+1 insertion(+)One new line was added
+1 deletion(-)One old line was removed
+git diff → shows full details
+git diff --stat → shows summary only
