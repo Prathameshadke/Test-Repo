@@ -1,0 +1,10 @@
+what is branch?
+A separate copy of your code where you can work safely without affecting others.
+
+git branch <branch name> creating a branch
+git switch <branch name> to switch the branch
+
+what do you think so this is a test branch,
+so the changes made here wont reflect in main branch untill we merge it!!!
+
+Not happening !!!!
